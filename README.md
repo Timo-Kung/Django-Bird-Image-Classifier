@@ -1,1 +1,1 @@
-# Django-Bird-Image-Classifier
+# Django-Bird-Images-Classifier
